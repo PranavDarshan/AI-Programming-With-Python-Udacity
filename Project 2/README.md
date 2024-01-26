@@ -26,9 +26,12 @@ Optional Arguements : <br>
  b. path where the checkpoint is saved <br><br>
 
  <h2>Results</h2>
-The results can be found in the google_collab.ipynb file. Some results are:
-![image](https://github.com/PranavDarshan/AI-Programming-With-Python-Udacity/assets/65911046/fa3714bb-08dc-421f-a4fa-db5035a0c143)
-![image](https://github.com/PranavDarshan/AI-Programming-With-Python-Udacity/assets/65911046/d6dec624-ec8e-435c-aad5-1fafcef959c6)
-![image](https://github.com/PranavDarshan/AI-Programming-With-Python-Udacity/assets/65911046/96f33d94-eaa7-4623-8d91-7d1193b4c1f2)
+The results can be found in the google_collab.ipynb file. Some results are: <br>
+
+![image](https://github.com/PranavDarshan/AI-Programming-With-Python-Udacity/assets/65911046/96f33d94-eaa7-4623-8d91-7d1193b4c1f2) <br>
+![image](https://github.com/PranavDarshan/AI-Programming-With-Python-Udacity/assets/65911046/d6dec624-ec8e-435c-aad5-1fafcef959c6) <br>
+
+![image](https://github.com/PranavDarshan/AI-Programming-With-Python-Udacity/assets/65911046/b8361904-a9df-4888-b282-b4f198ebee0f)
+![image](https://github.com/PranavDarshan/AI-Programming-With-Python-Udacity/assets/65911046/50691317-e526-43ec-9aa9-f0235f7bee80)
 
 
