@@ -4,7 +4,8 @@
 
 Guidelines for the project 1 can be found below in the attached pdf. All the TODO's have already been completed in this code. Please refer the comments and docstrings for more information regarding the source file.
 
-[Udacity Project 1 Use a Pre-trained Image Classifier to Identify Dog Breeds.pdf](https://github.com/PranavDarshan/Udacity-Projects/files/13260318/Udacity.Project.1.Use.a.Pre-trained.Image.Classifier.to.Identify.Dog.Breeds.pdf)
+[Udacity Project 1 Use a Pre-trained Image Classifier to Identify Dog Breeds.pdf](https://github.com/PranavDarshan/AI-With-Python-Programming-Udacity/files/14062976/Udacity.Project.1.Use.a.Pre-trained.Image.Classifier.to.Identify.Dog.Breeds.pdf)
+
 
 Referred from Udacity Website: 
 https://learn.udacity.com/nanodegrees/nd089/parts/cd0184/lessons/9664b117-d773-4799-b6a3-d4640ed70218/concepts/8a893026-8790-4583-b280-264d43a0bb3a
@@ -14,7 +15,8 @@ https://learn.udacity.com/nanodegrees/nd089/parts/cd0184/lessons/9664b117-d773-4
 1. Download all the source files.
 2. Download Anaconda Navigator to create a working environment to run the tool by installing pytorch, transformers and torchvision libraries.
  
- ![image](https://github.com/PranavDarshan/Udacity-Projects/assets/65911046/1b4dd7cd-1185-4532-9a4a-e7cafe9d0461)
+![image](https://github.com/PranavDarshan/AI-With-Python-Programming-Udacity/assets/65911046/d3ca14a9-b1a3-480c-aeb2-b21bbfe39cf5)
+
 
 3.You can also install the dependencies by the environments.yaml file that is present in this project using annaconda. For that in your command prompt go to the current directory and type the following command. 
   ```ruby
@@ -26,7 +28,7 @@ conda env create -f environment.yaml
 
 1. You can directly run the <b>check_images.py</b> to run a single model on VS code by changing your interpreter to Annaconda environment that you have created and downloaded the libraries, base:root in my case. If you have installed the dependencies using the environment.yaml file, then the environment name present in the environment.yaml file is project1 and ensure that you use this environment to run the following program. Open a cmd terminal in VS Code and make sure you are in the correct directory.
 
-![image](https://github.com/PranavDarshan/Udacity-Projects/assets/65911046/d08d4a11-73c6-4a62-8f15-5d08e285ade4)
+![image](https://github.com/PranavDarshan/AI-With-Python-Programming-Udacity/assets/65911046/a6b8f7eb-49be-4611-8881-7321d55adaad)
 
 
 2. While running the code you can give the input arguements
