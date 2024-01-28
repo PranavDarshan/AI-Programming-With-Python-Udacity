@@ -20,7 +20,7 @@ Optional Arguements : <br>
  f. hidden_units - number of hidden units in the first hidden layer 
 <br>
 <h3><B> NOTE: Please use GPU to run the train.py since it takes a very long time to run on cpu</B></h3><br>
-3. If you are unable to run train.py, download the pretrained model's checkpoint.pth from kaggle : https://www.kaggle.com/models/pranavdarshan/flowerclassifier <br><br>
+3. If you are unable to run train.py, download the pretrained model's checkpoint.pth from kaggle : [https://www.kaggle.com/models/pranavdarshan/flowerclassifier](https://www.kaggle.com/code/pranavdarshan/flower-classifier/output) <br><br>
 4. Now use the saved checkpoint to run the predict.py by giving two compulsory arguements :<br>
  a. path of the image you want to predict <br>
  b. path where the checkpoint is saved <br><br>
